@@ -8,7 +8,6 @@ function App() {
     <>
       <h1>learning react series</h1>
       <Hello/>
-      
     </>
   )
 }
